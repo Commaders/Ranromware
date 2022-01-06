@@ -52,7 +52,7 @@
 </h1>
 <br>
 
-![alt text](./demo/PyCrypto-vs-PyAES_demo_10fps.gif "Encryption Speed Demo")
+![alt text](./Demo/PyCrypto-vs-PyAES_demo_10fps.gif "Encryption Speed Demo")
 <br>
 
 <h1 align="center">
