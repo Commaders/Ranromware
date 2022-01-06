@@ -20,9 +20,7 @@
 ![last commit](https://img.shields.io/github/last-commit/leonv024/RAASNet "Last Commit")
 
 
-<h3 align="center">
-   <a href="https://www.buymeacoffee.com/Zeznzo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-blue.png" alt="Buy Me A Coffee" style="height: 21px !important;width: 187px !important;" ></a>
-</h3>
+
 
 <p align="center">
   Ransomware As A Service
