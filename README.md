@@ -59,8 +59,6 @@
    Usage Demo
 </h1>
 
-<a href="https://www.youtube.com/watch?v=2GQaWL6eSxA" target="_blank"><img src="https://i.ytimg.com/vi/2GQaWL6eSxA/hqdefault.jpg" 
-alt="RAASNet demo" width="240" height="180" border="10" /></a>
 
 <h1 align="center">
    Please read
