@@ -41,11 +41,11 @@
 </h2>
 
 
-![alt text](./demo/RAASNET-demo.png)
-![alt text](./demo/panel1.png)
-![alt text](./demo/panel2.png)
-![alt text](./demo/new_profile.png)
-![alt text](./demo/demonware_demo.jpeg)
+![alt text](./Demo/RAASNET-demo.png)
+![alt text](./Demo/panel1.png)
+![alt text](./Demo/panel2.png)
+![alt text](./Demo/new_profile.png)
+![alt text](./Demo/demonware_demo.jpeg)
 
 <h1 align="center">
   Super Fast Encryption!
